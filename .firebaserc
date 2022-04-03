@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-auth-template": {
+      "hosting": {
+        "angular-auth-template": [
+          "angular-auth-template"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-auth-template"
+  }
+}
