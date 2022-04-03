@@ -1,3 +1,4 @@
+/* REPLACE IT WITH YOUR FIREBASE CONFIG */
 export const environment = {
   firebase: {
     projectId: '',
